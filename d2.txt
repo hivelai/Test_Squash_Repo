@@ -1,2 +1,3 @@
 d2 declined: commit 1/3
 d2 declined: commit 2/3
+d2 declined: commit 3/3

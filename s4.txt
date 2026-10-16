@@ -1,0 +1,2 @@
+s4 outer: O1 initial outer work 1792144486583366000
+s4 outer: O2 after nested squash 1792144505736524000

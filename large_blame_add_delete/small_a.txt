@@ -4,43 +4,36 @@ small_a.txt line 2
 small_a.txt line 3
 small_a.txt line 4
 small_a.txt line 5
-small_a.txt line 6
 small_a.txt line 7
 small_a.txt line 8
 small_a.txt line 9
 small_a.txt line 10
 small_a.txt line 11
-small_a.txt line 12
 small_a.txt line 13
 small_a.txt line 14
 small_a.txt line 15
 small_a.txt line 16
 small_a.txt line 17
-small_a.txt line 18
 small_a.txt line 19
 small_a.txt line 20
 small_a.txt line 21
 small_a.txt line 22
 small_a.txt line 23
-small_a.txt line 24
 small_a.txt line 25
 small_a.txt line 26
 small_a.txt line 27
 small_a.txt line 28
 small_a.txt line 29
-small_a.txt line 30
 small_a.txt line 31
 small_a.txt line 32
 small_a.txt line 33
 small_a.txt line 34
 small_a.txt line 35
-small_a.txt line 36
 small_a.txt line 37
 small_a.txt line 38
 small_a.txt line 39
 small_a.txt line 40
 small_a.txt line 41
-small_a.txt line 42
 small_a.txt line 43
 small_a.txt line 44
 small_a.txt line 45
@@ -48,3 +41,13 @@ small_a.txt line 46
 small_a.txt line 47
 small_a.txt line 48
 small_a.txt line 49
+small_a.txt appended line 0
+small_a.txt appended line 1
+small_a.txt appended line 2
+small_a.txt appended line 3
+small_a.txt appended line 4
+small_a.txt appended line 5
+small_a.txt appended line 6
+small_a.txt appended line 7
+small_a.txt appended line 8
+small_a.txt appended line 9
